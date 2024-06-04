@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Panagiotis3149
 - 👀 I’m interested in Minecraft Cheating
-- 🌱 I’m currently learning a bit of java
+- 🌱 I’m currently learning a bit of java/kotling
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me idk
+- 📫 How to reach me: I dont know
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: i like potatoes
