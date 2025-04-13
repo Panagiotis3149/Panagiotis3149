@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Panagiotis3149
-- 👀 I’m interested in Minecraft Cheating
-- 🌱 I’m currently learning a bit of java/python
-- 📫 How to reach me: discord button on https://panagiotis3149.github.io 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: i like potatoes
+- 👋 Heya, I’m @Panagiotis3149
