@@ -1,4 +1,5 @@
-## 👋 Heya, I’m <span style="color: #36bcf7;">@Panagiotis3149</span>
+## 👋 Heya, I’m <img src="assets/name.svg" alt="@Panagiotis3149" />
+
 
 ## [![Bypass Typing Animation](https://readme-typing-svg.herokuapp.com?size=40&lines=Bypass)](https://git.io/typing-svg)
 
